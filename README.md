@@ -1,2 +1,4 @@
 # Web-Scrapping
 In this mini project, we scrape information about multiple courses from website talentedge(An Ed-Tech firm) using Beautifulsoup module. We extract around 30 different KPI's/attributes/parameters like title of the course, description, delievery method, prerequisites, content, instructor names, accreditation description, institute, pricing, job assistance, capstone project etc which gives complete information about the course. This project contains information/data about around 20 different courses offered by talentedge. Some KPI's are not converted to text readable by user instead kept in HTML formant purposefully. The final information is converted into DataFrame using pandas and stored as csv file into the computer. 
+
+Note: The whole program can be better written, for example using list comprehentions to make the whole program efficient and shorter in length. But it has not been improved and is in beginner friendly format.
